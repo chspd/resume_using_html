@@ -1,0 +1,22 @@
+.top{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.img{
+    margin-right: 20%;
+    margin-top: 3%;
+    border: 5px solid black;
+}
+
+.address{
+    margin-top: 3%;
+    
+}
+.spandana{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid black;
+}
